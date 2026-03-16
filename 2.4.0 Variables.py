@@ -31,5 +31,14 @@ b = 4.0
 c = (a ** 2 + b ** 2) ** 0.5
 print("c =", c)
 
+#Recursividad
 x=2
 x = x * 2
+
+sheep = 10
+sheep = sheep + 1
+ 
+#Otras formas de recursividad
+x *= 2
+sheep += 1
+

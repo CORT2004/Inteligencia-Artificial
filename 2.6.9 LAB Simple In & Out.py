@@ -15,8 +15,18 @@ b = float(input("Ingrese el Valor \'b\':"))
 # output the result of addition here
 print("a + b =", a+b)
 print(a, "+", b, "=", a+b)
+
 # output the result of subtraction here
+print("a - b =", a-b)
+print(a, "-", b, "=", a-b)
+
 # output the result of multiplication here
+print("a x b =", a*b)
+print(a, "x", b, "=", a*b)
+
 # output the result of division here
+print("a / b =", a/b)
+print(a, "/", b, "=", a/b)
 
 print("\nThat's all, folks!")
+
